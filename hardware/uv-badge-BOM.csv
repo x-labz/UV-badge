@@ -1,0 +1,15 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"PROD_ID";
+"4";"100n";"C-EUC0805";"C0805";"C1, C2, C3, C4";"CAPACITOR, European symbol";"";
+"1";"10k 1%";"R-EU_R0805";"R0805";"R5";"RESISTOR, European symbol";"";
+"1";"1n";"C-EUC0805";"C0805";"C5";"CAPACITOR, European symbol";"";
+"1";"20k";"R-EU_R0805";"R0805";"R4";"RESISTOR, European symbol";"";
+"1";"20k 1%";"R-EU_R0805";"R0805";"R6";"RESISTOR, European symbol";"";
+"1";"ATTINY861A";"ATTINY861A";"TSSOP20";"U$3";"";"";
+"1";"BAS16WS";"BAS16WS";"SOD323-W";"D1";"DIODE";"";
+"1";"BME280";"BME280";"BMP280";"IC1";"The BMP280 is an absolute barometric pressure sensor especially designed for mobile applications. The sensor module is housed in an extremely compact 8-pin metal-lid LGA package with a footprint of only 2.0 × 2.5 mm2 and 0.95 mm package height. Its small";"";
+"1";"CR2016";"CR2016";"BAT-HLD-002";"U$1";"";"";
+"1";"FPC-10";"FPC-10";"FPC-10-BTM";"X1";"FPC Connector ZIF for SMT 0.5mm";"";
+"1";"IRLML6401PBF";"IRLML6401PBF";"SOT23";"Q1";"";"";
+"1";"ISP-CONNTARGET!";"ISP-CONNTARGET!";"ISP-TARGET";"U$4";"6 x 0.1 inch Header";"";
+"2";"KMSXXXG";"KMSXXXG";"C&K-KMS-SWITCH";"U$2, U$5";"C&K KMS Series";"";
+"1";"ML8511-UV-SENSORSMD";"ML8511-UV-SENSORSMD";"ML8511";"U1";"";"IC-11927";
